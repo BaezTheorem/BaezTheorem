@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaezTheorem
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning C++, C and Haskell
-- 💞️ I’m looking to collaborate on desktop programming projects
+- 👀 I’m interested in Python, C++, Mathematica and Matlab
+- 🌱 I’m currently learning Haskell, C and OCaml
+- 💞️ I’m looking to collaborate on desktop programming and scientific programming projects
 - 📫 How to reach me ...
 
 <!---
